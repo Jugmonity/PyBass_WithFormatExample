@@ -1,2 +1,6 @@
 # PyBass_WithFormatExample
-PyBass_WithFormatExample by Jugmonity
+This is Just Example to Init PyBass as Example(Format Edition)... So Enjoy to use this!!!
+
+## Donations
+
+Coming Soon!!!
